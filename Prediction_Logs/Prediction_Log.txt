@@ -1,0 +1,46 @@
+2022-09-16/23:09,13		Start of Prediction
+2022-09-16/23:09,13		Error occured while running the prediction!! Error:: 'Prediction_Data_Validation' object has no attribute 'deletePredictionFile'
+2022-09-16/23:15,17		Start of Prediction
+2022-09-16/23:15,17		Entered the get_data method of the Data_Getter class
+2022-09-16/23:15,17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-16/23:15,17		Entered the removeDuplicates method of the Preprocessor class
+2022-09-16/23:15,17		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-16/23:15,17		Entered the standardScalingData method of the Preprocessor class
+2022-09-16/23:15,17		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-16/23:15,17		Entered the load_model method of the File_Operation class
+2022-09-16/23:15,17		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-09-16/23:15,17		Error occured while running the prediction!! Error:: X has 8 features, but KMeans is expecting 23 features as input.
+2022-09-16/23:16,14		Start of Prediction
+2022-09-16/23:16,14		Entered the get_data method of the Data_Getter class
+2022-09-16/23:16,14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-16/23:16,14		Entered the removeDuplicates method of the Preprocessor class
+2022-09-16/23:16,14		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-16/23:16,14		Entered the standardScalingData method of the Preprocessor class
+2022-09-16/23:16,14		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-16/23:16,14		Entered the load_model method of the File_Operation class
+2022-09-16/23:16,14		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-09-16/23:16,14		Error occured while running the prediction!! Error:: X has 8 features, but KMeans is expecting 23 features as input.
+2022-09-16/23:48,59		Start of Prediction
+2022-09-16/23:48,59		Entered the get_data method of the Data_Getter class
+2022-09-16/23:48,59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-16/23:48,59		Entered the removeDuplicates method of the Preprocessor class
+2022-09-16/23:48,59		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-16/23:48,59		Entered the standardScalingData method of the Preprocessor class
+2022-09-16/23:48,59		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-16/23:48,59		Entered the load_model method of the File_Operation class
+2022-09-16/23:48,59		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-09-16/23:48,59		Error occured while running the prediction!! Error:: X has 8 features, but KMeans is expecting 23 features as input.
+2022-09-17/00:02,04		Start of Prediction
+2022-09-17/00:02,04		Entered the get_data method of the Data_Getter class
+2022-09-17/00:02,04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-17/00:02,04		Entered the removeDuplicates method of the Preprocessor class
+2022-09-17/00:02,04		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-17/00:02,04		Entered the standardScalingData method of the Preprocessor class
+2022-09-17/00:02,04		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-17/00:02,04		Entered the load_model method of the File_Operation class
+2022-09-17/00:02,04		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2022-09-17/00:02,04		Entered the find_correct_model_file method of the File_Operation class
+2022-09-17/00:02,04		Exited the find_correct_model_file method of the Model_Finder class.
+2022-09-17/00:02,04		Entered the load_model method of the File_Operation class
+2022-09-17/00:02,05		Model File BaggingDecisionTreeRegressor0 loaded. Exited the load_model method of the Model_Finder class
+2022-09-17/00:02,05		End of Prediction

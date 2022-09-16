@@ -1,0 +1,65 @@
+2022-09-16/15:01,06		GoodRaw Directory deleted successfully!!!
+2022-09-16/15:54,51		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/15:54,54		GoodRaw Directory deleted successfully!!!
+2022-09-16/15:58,59		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/15:59,04		GoodRaw Directory deleted successfully!!!
+2022-09-16/16:15,24		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/16:15,28		GoodRaw Directory deleted successfully!!!
+2022-09-16/16:15,44		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/16:21,21		GoodRaw Directory deleted successfully!!!
+2022-09-16/16:21,36		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/16:31,20		GoodRaw Directory deleted successfully!!!
+2022-09-16/16:44,06		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/16:44,11		GoodRaw Directory deleted successfully!!!
+2022-09-16/16:53,43		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/16:53,45		GoodRaw Directory deleted successfully!!!
+2022-09-16/17:16,47		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/17:16,50		GoodRaw Directory deleted successfully!!!
+2022-09-16/17:22,05		GoodRaw Directory deleted successfully!!!
+2022-09-16/17:22,05		Bad Files moved to archive
+2022-09-16/17:22,05		Bad Raw Data folder deleted successfully!!!
+2022-09-16/17:25,59		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/17:26,00		GoodRaw Directory deleted successfully!!!
+2022-09-16/17:31,12		GoodRaw Directory deleted successfully!!!
+2022-09-16/17:31,12		Bad Files moved to archive
+2022-09-16/17:31,12		Bad Raw Data folder deleted successfully!!!
+2022-09-16/17:46,22		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/17:46,24		GoodRaw Directory deleted successfully!!!
+2022-09-16/17:51,33		GoodRaw Directory deleted successfully!!!
+2022-09-16/17:51,33		Bad Files moved to archive
+2022-09-16/17:51,33		Bad Raw Data folder deleted successfully!!!
+2022-09-16/18:02,51		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/18:02,52		GoodRaw Directory deleted successfully!!!
+2022-09-16/18:08,03		GoodRaw Directory deleted successfully!!!
+2022-09-16/18:08,03		Bad Files moved to archive
+2022-09-16/18:08,03		Bad Raw Data folder deleted successfully!!!
+2022-09-16/18:53,39		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/18:53,42		GoodRaw Directory deleted successfully!!!
+2022-09-16/18:58,52		GoodRaw Directory deleted successfully!!!
+2022-09-16/18:58,52		Bad Files moved to archive
+2022-09-16/18:58,52		Bad Raw Data folder deleted successfully!!!
+2022-09-16/20:32,36		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/20:32,39		GoodRaw Directory deleted successfully!!!
+2022-09-16/20:37,49		GoodRaw Directory deleted successfully!!!
+2022-09-16/20:37,49		Bad Files moved to archive
+2022-09-16/20:37,49		Bad Raw Data folder deleted successfully!!!
+2022-09-16/20:41,42		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/20:41,44		GoodRaw Directory deleted successfully!!!
+2022-09-16/20:46,54		GoodRaw Directory deleted successfully!!!
+2022-09-16/20:46,54		Bad Files moved to archive
+2022-09-16/20:46,54		Bad Raw Data folder deleted successfully!!!
+2022-09-16/20:50,58		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/20:50,59		GoodRaw Directory deleted successfully!!!
+2022-09-16/20:55,52		GoodRaw Directory deleted successfully!!!
+2022-09-16/20:55,52		Bad Files moved to archive
+2022-09-16/20:55,52		Bad Raw Data folder deleted successfully!!!
+2022-09-16/21:42,20		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/21:42,21		GoodRaw Directory deleted successfully!!!
+2022-09-16/21:47,15		GoodRaw Directory deleted successfully!!!
+2022-09-16/21:47,15		Bad Files moved to archive
+2022-09-16/21:47,15		Bad Raw Data folder deleted successfully!!!
+2022-09-16/22:49,12		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/22:49,14		GoodRaw Directory deleted successfully!!!
+2022-09-16/22:49,16		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"
+2022-09-16/22:49,18		GoodRaw Directory deleted successfully!!!
+2022-09-16/22:49,20		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Training_Logs/GeneralLog.txt,'a+"

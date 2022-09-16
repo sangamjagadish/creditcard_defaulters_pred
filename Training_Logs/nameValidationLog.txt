@@ -1,0 +1,3 @@
+2022-09-16/22:36,22		Error occures while validating file name [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011962_120212.csv'
+2022-09-16/22:49,14		Error occures while validating file name [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011962_120212.csv'
+2022-09-16/22:49,18		Error occures while validating file name [Errno 2] No such file or directory: 'Training_Batch_Files/creditCardFraud_28011962_120212.csv'

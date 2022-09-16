@@ -1,0 +1,29 @@
+2022-09-16/16:53,57		training1 Database disconnected successfully!!
+2022-09-16/17:22,48		training1 Database disconnected successfully!!
+2022-09-16/17:45,50		training1 Database disconnected successfully!!
+2022-09-16/18:02,46		training1 Database disconnected successfully!!
+2022-09-16/18:52,20		training1 Database disconnected successfully!!
+2022-09-16/20:32,33		training1 Database disconnected successfully!!
+2022-09-16/20:40,36		training1 Database disconnected successfully!!
+2022-09-16/20:50,55		training1 Database disconnected successfully!!
+2022-09-16/21:42,16		training1 Database disconnected successfully!!
+2022-09-16/22:51,48		Database is connected
+2022-09-16/22:52,03		Database is connected
+2022-09-16/23:08,40		Database is connected
+2022-09-16/23:08,55		Database is connected
+2022-09-16/23:09,10		Database is connected
+2022-09-16/23:12,27		Database is connected
+2022-09-16/23:14,45		Database is connected
+2022-09-16/23:14,59		Database is connected
+2022-09-16/23:15,13		Database is connected
+2022-09-16/23:15,35		Database is connected
+2022-09-16/23:15,57		Database is connected
+2022-09-16/23:16,12		Database is connected
+2022-09-16/23:47,58		Database is connected
+2022-09-16/23:48,25		Database is connected
+2022-09-16/23:48,41		Database is connected
+2022-09-16/23:48,56		Database is connected
+2022-09-16/23:56,08		Database is connected
+2022-09-16/23:56,50		Database is connected
+2022-09-16/23:57,05		Database is connected
+2022-09-17/00:02,02		Database is connected

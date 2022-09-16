@@ -1,0 +1,9 @@
+2022-09-16/17:22,20		 File export failed. Error: "['Cement', 'Blast', 'Fly', 'Water', 'Superplasticizer', 'Coarse', 'Fine', 'Concrete'] not in index"
+2022-09-16/17:31,26		 File export failed. Error: "['Cement', 'Blast', 'Fly', 'Water', 'Superplasticizer', 'Coarse', 'Fine', 'Concrete'] not in index"
+2022-09-16/17:51,46		 File export failed. Error: "None of [Index(['LIMIT_BAL', 'SEX', 'EDUCATION', 'MARRIAGE', 'AGE', 'PAY_0', 'PAY_2',\n       'PAY_3', 'PAY_4', 'PAY_5', 'PAY_6', 'BILL_AMT1', 'BILL_AMT2',\n       'BILL_AMT3', 'BILL_AMT4', 'BILL_AMT5', 'BILL_AMT6', 'PAY_AMT1',\n       'PAY_AMT2', 'PAY_AMT3', 'PAY_AMT4', 'PAY_AMT5', 'PAY_AMT6',\n       'default payment next month'],\n      dtype='object')] are in the [columns]"
+2022-09-16/18:08,16		 File export failed. Error: "None of [Index(['LIMIT_BAL', 'SEX', 'EDUCATION', 'MARRIAGE', 'AGE', 'PAY_0', 'PAY_2',\n       'PAY_3', 'PAY_4', 'PAY_5', 'PAY_6', 'BILL_AMT1', 'BILL_AMT2',\n       'BILL_AMT3', 'BILL_AMT4', 'BILL_AMT5', 'BILL_AMT6', 'PAY_AMT1',\n       'PAY_AMT2', 'PAY_AMT3', 'PAY_AMT4', 'PAY_AMT5', 'PAY_AMT6',\n       'default payment next month'],\n      dtype='object')] are in the [columns]"
+2022-09-16/18:59,07		 File export failed. Error: "None of [Index(['LIMIT_BAL', 'SEX', 'EDUCATION', 'MARRIAGE', 'AGE', 'PAY_0', 'PAY_2',\n       'PAY_3', 'PAY_4', 'PAY_5', 'PAY_6', 'BILL_AMT1', 'BILL_AMT2',\n       'BILL_AMT3', 'BILL_AMT4', 'BILL_AMT5', 'BILL_AMT6', 'PAY_AMT1',\n       'PAY_AMT2', 'PAY_AMT3', 'PAY_AMT4', 'PAY_AMT5', 'PAY_AMT6',\n       'default payment next month'],\n      dtype='object')] are in the [columns]"
+2022-09-16/20:38,04		File exported successfully!!!
+2022-09-16/20:47,09		File exported successfully!!!
+2022-09-16/20:56,09		File exported successfully!!!
+2022-09-16/21:47,29		File exported successfully!!!

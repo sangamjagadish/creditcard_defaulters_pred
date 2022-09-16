@@ -1,0 +1,5 @@
+2022-09-16/23:08,43		Table Good_Raw_Data created successfully
+2022-09-16/23:14,47		Table Good_Raw_Data created successfully
+2022-09-16/23:15,45		Table Good_Raw_Data created successfully
+2022-09-16/23:48,29		Table Good_Raw_Data created successfully
+2022-09-16/23:56,53		Table Good_Raw_Data created successfully

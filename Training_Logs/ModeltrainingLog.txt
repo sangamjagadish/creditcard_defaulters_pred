@@ -1,0 +1,118 @@
+2022-09-16/17:22,20		Start of Training
+2022-09-16/17:22,20		Entered the get_data method of the Data_Getter class
+2022-09-16/17:22,20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-16/17:22,20		Entered the removeDuplicates method of the Preprocessor class
+2022-09-16/17:22,21		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-16/17:22,21		Entered the separate_label_feature method of the Preprocessor class
+2022-09-16/17:22,21		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  "['Concrete'] not found in axis"
+2022-09-16/17:22,21		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2022-09-16/17:22,21		Successful End of Training
+2022-09-16/17:31,27		Start of Training
+2022-09-16/17:31,27		Entered the get_data method of the Data_Getter class
+2022-09-16/17:31,27		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-16/17:31,27		Entered the removeDuplicates method of the Preprocessor class
+2022-09-16/17:31,27		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-16/17:31,27		Entered the separate_label_feature method of the Preprocessor class
+2022-09-16/17:31,27		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  "['Concrete'] not found in axis"
+2022-09-16/17:31,27		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2022-09-16/17:31,27		Successful End of Training
+2022-09-16/17:51,47		Start of Training
+2022-09-16/17:51,47		Entered the get_data method of the Data_Getter class
+2022-09-16/17:51,47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-16/17:51,47		Entered the removeDuplicates method of the Preprocessor class
+2022-09-16/17:51,47		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-16/17:51,47		Entered the separate_label_feature method of the Preprocessor class
+2022-09-16/17:51,47		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  "['Concrete'] not found in axis"
+2022-09-16/17:51,47		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2022-09-16/17:51,47		Successful End of Training
+2022-09-16/18:08,17		Start of Training
+2022-09-16/18:08,17		Entered the get_data method of the Data_Getter class
+2022-09-16/18:08,17		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-16/18:08,17		Entered the removeDuplicates method of the Preprocessor class
+2022-09-16/18:08,17		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-16/18:08,17		Entered the separate_label_feature method of the Preprocessor class
+2022-09-16/18:08,17		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  "['Concrete'] not found in axis"
+2022-09-16/18:08,17		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2022-09-16/18:08,17		Successful End of Training
+2022-09-16/18:59,08		Start of Training
+2022-09-16/18:59,08		Entered the get_data method of the Data_Getter class
+2022-09-16/18:59,08		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-16/18:59,08		Entered the removeDuplicates method of the Preprocessor class
+2022-09-16/18:59,08		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-16/18:59,08		Entered the separate_label_feature method of the Preprocessor class
+2022-09-16/18:59,08		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  "['Concrete'] not found in axis"
+2022-09-16/18:59,08		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2022-09-16/18:59,08		Successful End of Training
+2022-09-16/20:38,06		Start of Training
+2022-09-16/20:38,06		Entered the get_data method of the Data_Getter class
+2022-09-16/20:38,06		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-16/20:38,06		Entered the removeDuplicates method of the Preprocessor class
+2022-09-16/20:38,06		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-16/20:38,06		Entered the separate_label_feature method of the Preprocessor class
+2022-09-16/20:38,06		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  "['Concrete'] not found in axis"
+2022-09-16/20:38,06		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2022-09-16/20:38,06		Successful End of Training
+2022-09-16/20:47,10		Start of Training
+2022-09-16/20:47,10		Entered the get_data method of the Data_Getter class
+2022-09-16/20:47,10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-16/20:47,10		Entered the removeDuplicates method of the Preprocessor class
+2022-09-16/20:47,10		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-16/20:47,10		Entered the separate_label_feature method of the Preprocessor class
+2022-09-16/20:47,10		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  "['Concrete'] not found in axis"
+2022-09-16/20:47,10		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2022-09-16/20:47,10		Successful End of Training
+2022-09-16/20:56,10		Start of Training
+2022-09-16/20:56,10		Entered the get_data method of the Data_Getter class
+2022-09-16/20:56,10		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-16/20:56,10		Entered the removeDuplicates method of the Preprocessor class
+2022-09-16/20:56,10		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-16/20:56,10		Entered the separate_label_feature method of the Preprocessor class
+2022-09-16/20:56,10		Exception occured in separate_label_feature method of the Preprocessor class. Exception message:  "['default payment next month'] not found in axis"
+2022-09-16/20:56,10		Label Separation Unsuccessful. Exited the separate_label_feature method of the Preprocessor class
+2022-09-16/20:56,10		Successful End of Training
+2022-09-16/21:47,29		Start of Training
+2022-09-16/21:47,29		Entered the get_data method of the Data_Getter class
+2022-09-16/21:47,29		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-09-16/21:47,29		Entered the removeDuplicates method of the Preprocessor class
+2022-09-16/21:47,29		Duplicate Rows removal successful. Exited the removeDuplicates method of Preprocessor class
+2022-09-16/21:47,29		Entered the separate_label_feature method of the Preprocessor class
+2022-09-16/21:47,29		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-09-16/21:47,29		Entered the elbow plot method of the KMeansClustering class
+2022-09-16/21:47,39		The optimum numbers of cluster is:  4.
+2022-09-16/21:47,39		Exited the elbow_plot method of the KMeansClustering class
+2022-09-16/21:47,39		Entered the create_clusters method of the KMeansClustering class
+2022-09-16/21:47,39		Entered the save_model method of the File_Oeration class
+2022-09-16/21:47,39		Model File KMeans saved. Exited the save_model method of the Model_Finder class
+2022-09-16/21:47,39		Succesfully created 4clusters. Exited the create_clusters method of the KMeansClustering class
+2022-09-16/21:47,39		Entered the standardScalingData method of the Preprocessor class
+2022-09-16/21:47,39		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-16/21:47,39		Entered the standardScalingData method of the Preprocessor class
+2022-09-16/21:47,39		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-16/21:47,39		Entered the get_best_model method of the Model_Finder class
+2022-09-16/21:47,39		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-16/21:48,00		Entered the save_model method of the File_Oeration class
+2022-09-16/21:48,00		Model File BaggingDecisionTreeRegressor0 saved. Exited the save_model method of the Model_Finder class
+2022-09-16/21:48,00		Entered the standardScalingData method of the Preprocessor class
+2022-09-16/21:48,00		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-16/21:48,00		Entered the standardScalingData method of the Preprocessor class
+2022-09-16/21:48,00		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-16/21:48,00		Entered the get_best_model method of the Model_Finder class
+2022-09-16/21:48,00		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-16/21:48,08		Entered the save_model method of the File_Oeration class
+2022-09-16/21:48,08		Model File RandomForestRegressor2 saved. Exited the save_model method of the Model_Finder class
+2022-09-16/21:48,08		Entered the standardScalingData method of the Preprocessor class
+2022-09-16/21:48,08		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-16/21:48,08		Entered the standardScalingData method of the Preprocessor class
+2022-09-16/21:48,08		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-16/21:48,08		Entered the get_best_model method of the Model_Finder class
+2022-09-16/21:48,08		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-16/21:48,22		Entered the save_model method of the File_Oeration class
+2022-09-16/21:48,22		Model File BaggingDecisionTreeRegressor1 saved. Exited the save_model method of the Model_Finder class
+2022-09-16/21:48,22		Entered the standardScalingData method of the Preprocessor class
+2022-09-16/21:48,22		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-16/21:48,22		Entered the standardScalingData method of the Preprocessor class
+2022-09-16/21:48,22		Data Scaling Successful. Exited the standardScalingData method of the Preprocessor class
+2022-09-16/21:48,22		Entered the get_best_model method of the Model_Finder class
+2022-09-16/21:48,22		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2022-09-16/21:48,33		Entered the save_model method of the File_Oeration class
+2022-09-16/21:48,33		Model File BaggingDecisionTreeRegressor3 saved. Exited the save_model method of the Model_Finder class

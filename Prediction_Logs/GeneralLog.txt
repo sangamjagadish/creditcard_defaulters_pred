@@ -1,0 +1,23 @@
+2022-09-16/23:04,21		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Prediction_Logs/GeneralLog.txt,'a+"
+2022-09-16/23:08,27		GoodRaw Directory deleted successfully!!!
+2022-09-16/23:08,58		GoodRaw Directory deleted successfully!!!
+2022-09-16/23:08,58		Bad Files moved to archive
+2022-09-16/23:08,58		Bad Raw Data folder deleted successfully!!!
+2022-09-16/23:14,33		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Prediction_Logs/GeneralLog.txt,'a+"
+2022-09-16/23:14,33		GoodRaw Directory deleted successfully!!!
+2022-09-16/23:15,02		GoodRaw Directory deleted successfully!!!
+2022-09-16/23:15,02		Bad Files moved to archive
+2022-09-16/23:15,02		Bad Raw Data folder deleted successfully!!!
+2022-09-16/23:16,01		GoodRaw Directory deleted successfully!!!
+2022-09-16/23:16,01		Bad Files moved to archive
+2022-09-16/23:16,01		Bad Raw Data folder deleted successfully!!!
+2022-09-16/23:48,13		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Prediction_Logs/GeneralLog.txt,'a+"
+2022-09-16/23:48,14		GoodRaw Directory deleted successfully!!!
+2022-09-16/23:48,44		GoodRaw Directory deleted successfully!!!
+2022-09-16/23:48,44		Bad Files moved to archive
+2022-09-16/23:48,44		Bad Raw Data folder deleted successfully!!!
+2022-09-16/23:56,34		Error while Deleting BadRaw Directory : [Errno 2] No such file or directory: "Prediction_Logs/GeneralLog.txt,'a+"
+2022-09-16/23:56,35		GoodRaw Directory deleted successfully!!!
+2022-09-17/00:01,49		GoodRaw Directory deleted successfully!!!
+2022-09-17/00:01,49		Bad Files moved to archive
+2022-09-17/00:01,49		Bad Raw Data folder deleted successfully!!!
