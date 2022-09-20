@@ -1,20 +1,18 @@
-## Concrete Compressive Strength Prediction
+## Credit Card Payment Defaulters Prediction
 
 #### Problem Statement:
     
-    The quality of concrete is determined by its compressive strength, which is measured using a conventional 
-    crushing test on a concrete cylinder. The strength of the concrete is also a vital aspect in achieving the
-    requisite longevity. It will take 28 days to test strength, which is a long period. So, what will we do now?
-    We can save a lot of time and effort by using Data Science to estimate how much quantity of which raw material
-    we need for acceptable compressive strength.
+    We are supposed to build a model, which can predict that whether a customer is going to default the 
+    credit card payment or not based on the historical credit card bill payments of the particular customer and 
+    it is a Binary Classification problem.
 
 #### Data Description
     
     The client will send data in multiple sets of files in batches at a given location.
-    Data will contain concrete ingredients names in eight columns.
-    The last column will have the compressive strength of concrete for different mix of ingredients .
+    Data will contain customer details and historical payments in 23 columns and in 24th column that is 
+    default payment next month will contail whether the customer is going to deafult or not.
     
-    Apart from training files, we laso require a "schema" file from the client, which contain all the
+    Apart from training files, we also require a "schema" file from the client, which contain all the
     relevant information about the training files such as:
     
     Name of the files, Length of Date value in FileName, Length of Time value in FileName, NUmber of Columnns, 
@@ -68,6 +66,8 @@
         
      Clustering: KMeans algorithm is used to create clusters in the preprocessed data. The optimum number of clusters 
      is selected
+     
+     Algorithms we used for the analysis and model building are, KNN, KMeans ++, Random Forest, Decision tree, Xgboost
 
 
 ## Create a file "Dockerfile" with below content
@@ -187,7 +187,7 @@ git push -u origin main
 
 ## setup your project 
 
-<a href="https://app.circleci.com/projects/github/Avnish327030/setup/"> Setup project </a>
+<a href="https://app.circleci.com/pipelines/github/sangamjagadish/creditcard_defaulters_pred"> Setup project </a>
 
 ## Select project setting in CircleCI and below environment variable
 
@@ -197,8 +197,7 @@ DOCKER_HUB_PASSWORD_USER
 HEROKU_API_KEY
 HEROKU_APP_NAME
 HEROKU_EMAIL_ADDRESS
-DOCKER_IMAGE_NAME=wafercircle3270303
-```
+DOCKER_IMAGE_NAME
 
 
 ## to update the modification
